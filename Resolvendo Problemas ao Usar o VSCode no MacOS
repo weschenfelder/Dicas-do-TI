@@ -1,0 +1,25 @@
+Resolvendo Problemas ao Usar o VSCode no MacOS
+
+Se você está tendo dificuldades para utilizar o Visual Studio Code (VSCode) no MacOS, uma solução comum envolve a adição do comando code ao seu PATH. Isso permite que você abra arquivos e projetos diretamente do terminal.
+Siga os passos abaixo para configurar isso:
+
+Abra o VSCode:
+Inicie o Visual Studio Code no seu MacOS.
+
+Acesso Rápido:
+Pressione Command + Shift + P para abrir a paleta de comandos. Esta é uma ferramenta poderosa que permite acessar rapidamente diversos comandos do VSCode.
+
+Encontre o Comando Correto:
+No campo de busca que aparece, digite shell command. Isso filtrará a lista de comandos disponíveis.
+
+Executar Comando de Instalação:
+Entre os resultados filtrados, selecione Shell Command: Install 'code' command in PATH. Isso instalará o comando code no seu PATH, permitindo que você abra arquivos e projetos diretamente do terminal.
+
+Reinicie o Terminal:
+Feche e reabra o terminal. Isso é necessário para aplicar as mudanças e garantir que o novo comando code seja reconhecido pelo terminal.
+
+Conclusão:
+Com esses passos, você deverá ser capaz de abrir o VSCode diretamente do terminal usando o comando code. 
+Para mais informações e solução de problemas, não hesite em consultar a documentação oficial do VSCode para MacOS.
+  
+https://code.visualstudio.com/docs/setup/mac
